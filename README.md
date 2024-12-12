@@ -1,1 +1,11 @@
-# ece5831-2024-final-project
+# Text Summarizer
+
+## Pre - Recorded Presentation Video
+
+## Presentation
+
+## Report
+
+## Dataset
+
+## Demo Video
