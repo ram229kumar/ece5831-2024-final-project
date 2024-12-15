@@ -1,0 +1,12 @@
+transformers
+transformers[sentencepiece]
+datasets
+rouge_score 
+evaluate
+pandas
+nltk
+tqdm
+PyYAML
+torch
+Jinja2==3.1.2
+-e .
