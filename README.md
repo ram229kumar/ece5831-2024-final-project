@@ -94,6 +94,8 @@ For the custom input available in `custom_input.txt`. The below image is the out
 
 Google Drive (Has code and Model trained with 3% dataset): [Drive](https://drive.google.com/drive/folders/1HlXyx0RUPqoRFnxRyRuGxfQ9mojKpChP?usp=sharing)
 
+Project Report link : [Report](/Text_Summarizer_Project_Report.pdf)
+
 Demo Video [Youtube](PLACEHOLDER.com)
 
 ## Future Works
