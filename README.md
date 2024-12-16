@@ -78,7 +78,9 @@ The below screenshot is of the model successfully getting trained and getting ev
 
 The below screenshot is the output of the model running with the custom_input.txt as the input.
 
-![Output Image](/PLACEHOLDER)
+For the custom input available in `custom_input.txt`. The below image is the output.
+
+![Output Image](/Custom_Inputs_Output.png)
 
 ## Notes
 
