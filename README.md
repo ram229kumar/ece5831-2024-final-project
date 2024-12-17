@@ -100,6 +100,8 @@ Project Presentation Link : [Youtube](https://youtu.be/BSRQC7Ipw9Q)
 
 Demo Video [Youtube](https://youtu.be/AYQt4IKnh4E)
 
+Text Summarizer Presentation Slides : [Presentation](/Text%20Summarizer.pptx)
+
 ## Future Works
 
 - Train on a larger portion of the dataset.
