@@ -96,7 +96,9 @@ Google Drive (Has code and Model trained with 3% dataset): [Drive](https://drive
 
 Project Report link : [Report](/Text_Summarizer_Project_Report.pdf)
 
-Demo Video [Youtube](PLACEHOLDER.com)
+Project Presentation Link : [Youtube](https://youtu.be/BSRQC7Ipw9Q)
+
+Demo Video [Youtube](https://youtu.be/AYQt4IKnh4E)
 
 ## Future Works
 
